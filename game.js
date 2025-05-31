@@ -7,7 +7,7 @@ start.scale = 1;
 var startbutton = createSprite(310,350);
 startbutton.setAnimation("Start Button");
 startbutton.scale = 1.5;
-var cookiesclicked=9999;
+var cookiesclicked=0;
 var wshop=0;
 var shop1;
 var shop2;
